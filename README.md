@@ -7,6 +7,7 @@ Wireframe a mano
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f970e38a-c2fc-4154-9a26-ed8b9bd75843" />
 
 Wireframe digital (Figma)
+
 https://www.figma.com/design/oJeryeiZxKntrbW6wrCwiP/BEERSTOCK?node-id=0-1&p=f&t=1lTuKlniQUQvOAjm-0
 Explicación del diseño
 La aplicación BeerStock Colombia tendrá una interfaz sencilla y moderna para facilitar el uso por parte de los usuarios. El diseño está pensado para que los bares y pequeños negocios puedan administrar su inventario de forma rápida y eficiente.
